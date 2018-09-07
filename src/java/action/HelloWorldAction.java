@@ -1,7 +1,4 @@
-package cap.action;
-
-import com.opensymphony.xwork2.ActionSupport;
-
+package action;
 public class HelloWorldAction extends ActionSupport {
     private String username;
 
